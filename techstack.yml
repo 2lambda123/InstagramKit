@@ -1,0 +1,156 @@
+repo_name: 2lambda123/InstagramKit
+report_id: bbbc2e719607faa9d4eca365e0fbf18d
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:16:49+00:00'
+requested_by: snorkell-ai[bot]
+provider: github
+branch: master
+detected_tools_count: 12
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit/blob/master/InstagramKit.podspec
+  detection_source: InstagramKit.podspec
+  last_updated_by: Shyam Bhat
+  last_updated_on: 2013-10-17 21:35:44.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit/blob/master/.github/workflows/snorkell-auto-documentation.yml
+  detection_source: ".github/workflows/snorkell-auto-documentation.yml"
+  last_updated_by: snorkell-ai[bot]
+  last_updated_on: 2023-12-20 11:04:34.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Shyam Bhat
+  last_updated_on: 2018-06-03 21:23:34.000000000 Z
+- name: AFNetworking
+  description: A delightful networking framework for iOS, macOS, watchOS, and tvOS.
+    http://afnetworking.com
+  website_url: https://github.com/AFNetworking/AFNetworking
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3183/1181541.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit/blob/master/InstagramKit.podspec
+  detection_source: InstagramKit.podspec
+  last_updated_by: Shyam Bhat
+  last_updated_on: 2018-06-03 17:54:36.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit/blob/master/Example/Podfile.lock
+  detection_source: Example/Podfile.lock
+  last_updated_by: Shyam Bhat
+  last_updated_on: 2018-06-03 17:54:36.000000000 Z
+- name: AFNetworking
+  description: A delightful networking framework for Apple platforms
+  package_url: https://cocoapods.org/pods/AFNetworking
+  version: 3.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit/blob/master/Example/Podfile.lock
+  detection_source: InstagramKit.podspec
+  last_updated_by: Shyam Bhat
+  last_updated_on: 2018-06-03 17:54:36.000000000 Z
+- name: InstagramKit
+  description: Instagram iOS SDK
+  package_url: https://cocoapods.org/pods/InstagramKit
+  version: '4.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit/blob/master/Example/Podfile.lock
+  detection_source: Example/Podfile
+  last_updated_by: Shyam Bhat
+  last_updated_on: 2018-06-03 20:47:45.000000000 Z
+- name: UICKeyChainStore
+  description: UICKeyChainStore is a simple wrapper for Keychain that works on iOS
+    and OS X
+  package_url: https://cocoapods.org/pods/UICKeyChainStore
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/2lambda123/InstagramKit/blob/master/Example/Podfile.lock
+  detection_source: InstagramKit.podspec
+  last_updated_by: Shyam Bhat
+  last_updated_on: 2018-06-03 20:47:45.000000000 Z
